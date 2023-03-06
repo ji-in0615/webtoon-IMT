@@ -1,5 +1,5 @@
-# webtoon-IMT
-Webtoon-IMT (Webtoon images Machine Translation) is a multi-modal webtoon machine translation model.
+# letr-proto-WiMT
+WiMT (Webtoon images Machine Translation) is a multi-modal webtoon machine translation model.
 You can get three results.
 
 1. detect objects (speech bubbles, cuts, and line texts) in webtoon or cartoon.
